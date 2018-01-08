@@ -24,7 +24,7 @@ object Tagless {
       ur.findUser(userId).flatMap {
         case None => implicitly[Monad[F]].pure(Left("User not found"))
         case Some(user) =>
-          val updated = user.copy(loyaltyPoints = user.loyaltyPoints + pointsToAdd)
+          val updated = user.copyAndAddPoints(pointsToAdd)
           ur.updateUser(updated).map(_ => Right(()))
       }
     }

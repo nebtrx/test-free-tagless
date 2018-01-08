@@ -32,7 +32,7 @@ object FreeMonad {
     findUser(userId).flatMap {
       case None => Free.pure(Left("User not found"))
       case Some(user) =>
-        val updated = user.copy(loyaltyPoints = user.loyaltyPoints + pointsToAdd)
+        val updated = user.copyAndAddPoints(pointsToAdd)
         updateUser(updated).map(_ => Right(()))
     }
   }

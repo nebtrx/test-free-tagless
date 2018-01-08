@@ -1,10 +1,9 @@
 package com.latamautos.basic
 
 import java.util.UUID
-
 import com.latamautos.User
-
 import scala.concurrent.Future
+import scala.concurrent.ExecutionContext.Implicits.global
 
 object Java {
 

@@ -1,0 +1,1711 @@
+[0m[[0minfo[0m] [0mdefault:test-free-tagless_2.12:0.0.1-SNAPSHOT [S][0m
+[0m[[0minfo[0m] [0m  +-io.frees:frees-core_2.12:0.5.1 [S][0m
+[0m[[0minfo[0m] [0m  | +-com.github.mpilquist:simulacrum_2.12:0.11.0 [S][0m
+[0m[[0minfo[0m] [0m  | | +-org.typelevel:macro-compat_2.12:1.1.1 [S][0m
+[0m[[0minfo[0m] [0m  | | [0m
+[0m[[0minfo[0m] [0m  | +-com.kailuowang:mainecoon-core_2.12:0.6.0 [S][0m
+[0m[[0minfo[0m] [0m  | | +-org.scalameta:scalameta_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:inline_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:parsers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     | [0m
+[0m[[0minfo[0m] [0m  | | | | |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |         [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |       +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |       [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:trees_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |     [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | [0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   |   [0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     | [0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |         [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | [0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     |   [0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       | [0m
+[0m[[0minfo[0m] [0m  | | | |       +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |         +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |           +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |           [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:quasiquotes_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:parsers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     | [0m
+[0m[[0minfo[0m] [0m  | | | | | |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |         [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |       +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |       [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:trees_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |     [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | |   [0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | | | |   | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | |     [0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   | [0m
+[0m[[0minfo[0m] [0m  | | | | |   |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   |   [0m
+[0m[[0minfo[0m] [0m  | | | | |   |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |     | [0m
+[0m[[0minfo[0m] [0m  | | | | |   |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |         [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     | [0m
+[0m[[0minfo[0m] [0m  | | | | |     +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     |   [0m
+[0m[[0minfo[0m] [0m  | | | | |     +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |       | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |       | [0m
+[0m[[0minfo[0m] [0m  | | | | |       +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |         +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |           +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |           [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:trees_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |     [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | [0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   |   [0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     | [0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |         [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | [0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     |   [0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       | [0m
+[0m[[0minfo[0m] [0m  | | | |       +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |         +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |           +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |           [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:semantic_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-com.trueaccord.scalapb:scalapb-runtime_2.12:0.6.0-pre2 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.google.protobuf:protobuf-java:3.2.0[0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:fastparse_2.12:0.4.2 (evicted by: 0.4.3)[0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.trueaccord.lenses:lenses_2.12:0.4.10 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:parsers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     | [0m
+[0m[[0minfo[0m] [0m  | | | | | |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |         [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |       +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |       [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:trees_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |     [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | |   [0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | | | |   | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | |     [0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   | [0m
+[0m[[0minfo[0m] [0m  | | | | |   |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   |   [0m
+[0m[[0minfo[0m] [0m  | | | | |   |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |     | [0m
+[0m[[0minfo[0m] [0m  | | | | |   |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |         [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     | [0m
+[0m[[0minfo[0m] [0m  | | | | |     +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     |   [0m
+[0m[[0minfo[0m] [0m  | | | | |     +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |       | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |       | [0m
+[0m[[0minfo[0m] [0m  | | | | |       +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |         +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |           +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |           [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:trees_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |     [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | [0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   |   [0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     | [0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |         [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | [0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     |   [0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       | [0m
+[0m[[0minfo[0m] [0m  | | | |       +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |         +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |           +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |           [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | [0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |         [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:transversers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:trees_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |     [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | [0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   |   [0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     | [0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |         [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | [0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     |   [0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       | [0m
+[0m[[0minfo[0m] [0m  | | | |       +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |         +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |           +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |           [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:trees_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |   [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | |   | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |     [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   | [0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   |   [0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     | [0m
+[0m[[0minfo[0m] [0m  | | |   |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |         [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | [0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |     |   [0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |       | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |       | [0m
+[0m[[0minfo[0m] [0m  | | |       +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |         +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |           +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |           [0m
+[0m[[0minfo[0m] [0m  | | +-org.typelevel:cats-core_2.12:1.0.0 (evicted by: 1.0.1)[0m
+[0m[[0minfo[0m] [0m  | | +-org.typelevel:cats-core_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | |   +-org.typelevel:cats-kernel_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | |   +-org.typelevel:cats-macros_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | |   | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  | |   |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  | |   |   [0m
+[0m[[0minfo[0m] [0m  | |   +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  | |     +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  | |     [0m
+[0m[[0minfo[0m] [0m  | +-io.frees:iota-core_2.12:0.3.4 [S][0m
+[0m[[0minfo[0m] [0m  | | +-org.typelevel:cats-core_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | | | +-org.typelevel:cats-kernel_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | | | +-org.typelevel:cats-macros_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  | | |   [0m
+[0m[[0minfo[0m] [0m  | | +-org.typelevel:cats-free_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | |   +-org.typelevel:cats-core_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | |   | +-org.typelevel:cats-kernel_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | |   | +-org.typelevel:cats-macros_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | |   | | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  | |   | |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  | |   | |   [0m
+[0m[[0minfo[0m] [0m  | |   | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  | |   |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  | |   |   [0m
+[0m[[0minfo[0m] [0m  | |   +-org.typelevel:cats-macros_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | |   | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  | |   |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  | |   |   [0m
+[0m[[0minfo[0m] [0m  | |   +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  | |     +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  | |     [0m
+[0m[[0minfo[0m] [0m  | +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  | +-org.scalameta:scalameta_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | [0m
+[0m[[0minfo[0m] [0m  | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   [0m
+[0m[[0minfo[0m] [0m  | | +-org.scalameta:inline_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |       +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |       [0m
+[0m[[0minfo[0m] [0m  | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |     [0m
+[0m[[0minfo[0m] [0m  | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   [0m
+[0m[[0minfo[0m] [0m  | | +-org.scalameta:parsers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | [0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |         [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:trees_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |   [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | |   | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |     [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   | [0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   |   [0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     | [0m
+[0m[[0minfo[0m] [0m  | | |   |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |         [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | [0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |     |   [0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |       | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |       | [0m
+[0m[[0minfo[0m] [0m  | | |       +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |         +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |           +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |           [0m
+[0m[[0minfo[0m] [0m  | | +-org.scalameta:quasiquotes_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:parsers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     | [0m
+[0m[[0minfo[0m] [0m  | | | | |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |         [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |       +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |       [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:trees_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |     [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | [0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   |   [0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     | [0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |         [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | [0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     |   [0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       | [0m
+[0m[[0minfo[0m] [0m  | | | |       +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |         +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |           +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |           [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:trees_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |   [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | |   | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |     [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   | [0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   |   [0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     | [0m
+[0m[[0minfo[0m] [0m  | | |   |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |         [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | [0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |     |   [0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |       | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |       | [0m
+[0m[[0minfo[0m] [0m  | | |       +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |         +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |           +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |           [0m
+[0m[[0minfo[0m] [0m  | | +-org.scalameta:semantic_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | +-com.trueaccord.scalapb:scalapb-runtime_2.12:0.6.0-pre2 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-com.google.protobuf:protobuf-java:3.2.0[0m
+[0m[[0minfo[0m] [0m  | | | | +-com.lihaoyi:fastparse_2.12:0.4.2 (evicted by: 0.4.3)[0m
+[0m[[0minfo[0m] [0m  | | | | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-com.trueaccord.lenses:lenses_2.12:0.4.10 [S][0m
+[0m[[0minfo[0m] [0m  | | | | [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:parsers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     | [0m
+[0m[[0minfo[0m] [0m  | | | | |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |         [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | | |   +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |       +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | |       [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:trees_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | | |   | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   | |     [0m
+[0m[[0minfo[0m] [0m  | | | |   | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | [0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |   |   [0m
+[0m[[0minfo[0m] [0m  | | | |   |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |     | [0m
+[0m[[0minfo[0m] [0m  | | | |   |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   |         [0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | [0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     |   [0m
+[0m[[0minfo[0m] [0m  | | | |     +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |       | [0m
+[0m[[0minfo[0m] [0m  | | | |       +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |         +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |           +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |           [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:trees_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |   [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | |   | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |     [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   | [0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   |   [0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     | [0m
+[0m[[0minfo[0m] [0m  | | |   |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |         [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | [0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |     |   [0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |       | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |       | [0m
+[0m[[0minfo[0m] [0m  | | |       +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |         +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |           +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |           [0m
+[0m[[0minfo[0m] [0m  | | +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | | [0m
+[0m[[0minfo[0m] [0m  | | | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | |     [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | [0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |         [0m
+[0m[[0minfo[0m] [0m  | | +-org.scalameta:transversers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | | | [0m
+[0m[[0minfo[0m] [0m  | | | +-org.scalameta:trees_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |   [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | | | [0m
+[0m[[0minfo[0m] [0m  | | |   | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   | |     [0m
+[0m[[0minfo[0m] [0m  | | |   | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   | [0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |   |   [0m
+[0m[[0minfo[0m] [0m  | | |   |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |     | [0m
+[0m[[0minfo[0m] [0m  | | |   |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |   |         [0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | [0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |     |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |     |   [0m
+[0m[[0minfo[0m] [0m  | | |     +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |       | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |       | [0m
+[0m[[0minfo[0m] [0m  | | |       +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |         +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | | |           +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | | |           [0m
+[0m[[0minfo[0m] [0m  | | +-org.scalameta:trees_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |   | [0m
+[0m[[0minfo[0m] [0m  | |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |   |   [0m
+[0m[[0minfo[0m] [0m  | |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |   | | [0m
+[0m[[0minfo[0m] [0m  | |   | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |   |     [0m
+[0m[[0minfo[0m] [0m  | |   +-org.scalameta:tokenizers_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   | +-com.lihaoyi:fastparse_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | |   | | +-com.lihaoyi:fastparse-utils_2.12:0.4.3 [S][0m
+[0m[[0minfo[0m] [0m  | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |   | | | [0m
+[0m[[0minfo[0m] [0m  | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |   | | [0m
+[0m[[0minfo[0m] [0m  | |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |   | | [0m
+[0m[[0minfo[0m] [0m  | |   | +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   | |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |   | |   [0m
+[0m[[0minfo[0m] [0m  | |   | +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   | | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   | | | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |   | | | [0m
+[0m[[0minfo[0m] [0m  | |   | | +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   | |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   | |     +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |   | |     [0m
+[0m[[0minfo[0m] [0m  | |   | +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   |   +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   |   | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |   |   | [0m
+[0m[[0minfo[0m] [0m  | |   |   +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   |   | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   |   |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |   |   |   [0m
+[0m[[0minfo[0m] [0m  | |   |   +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |   |     | [0m
+[0m[[0minfo[0m] [0m  | |   |     +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |   |         +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |   |         [0m
+[0m[[0minfo[0m] [0m  | |   +-org.scalameta:tokens_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |     +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |     | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |     | [0m
+[0m[[0minfo[0m] [0m  | |     +-org.scalameta:dialects_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |     | +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |     |   +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |     |   [0m
+[0m[[0minfo[0m] [0m  | |     +-org.scalameta:inputs_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |       +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |       | +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |       | [0m
+[0m[[0minfo[0m] [0m  | |       +-org.scalameta:io_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |         +-org.scalameta:common_2.12:1.8.0 [S][0m
+[0m[[0minfo[0m] [0m  | |           +-com.lihaoyi:sourcecode_2.12:0.1.3 [S][0m
+[0m[[0minfo[0m] [0m  | |           [0m
+[0m[[0minfo[0m] [0m  | +-org.typelevel:cats-free_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  |   +-org.typelevel:cats-core_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  |   | +-org.typelevel:cats-kernel_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  |   | +-org.typelevel:cats-macros_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  |   | | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  |   | |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  |   | |   [0m
+[0m[[0minfo[0m] [0m  |   | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  |   |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  |   |   [0m
+[0m[[0minfo[0m] [0m  |   +-org.typelevel:cats-macros_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  |   | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  |   |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  |   |   [0m
+[0m[[0minfo[0m] [0m  |   +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  |     +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  |     [0m
+[0m[[0minfo[0m] [0m  +-org.typelevel:cats-core_2.12:1.0.0-RC1 (evicted by: 1.0.1)[0m
+[0m[[0minfo[0m] [0m  +-org.typelevel:cats-core_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | +-org.typelevel:cats-kernel_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | +-org.typelevel:cats-macros_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  | |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  | |   [0m
+[0m[[0minfo[0m] [0m  | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  |   [0m
+[0m[[0minfo[0m] [0m  +-org.typelevel:cats-free_2.12:1.0.0-RC1 [S] (evicted by: 1.0.1)[0m
+[0m[[0minfo[0m] [0m  | +-org.typelevel:cats-core_2.12:1.0.0-RC1 (evicted by: 1.0.1)[0m
+[0m[[0minfo[0m] [0m  | +-org.typelevel:cats-core_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | | +-org.typelevel:cats-kernel_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | | +-org.typelevel:cats-macros_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | | | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  | | |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  | | |   [0m
+[0m[[0minfo[0m] [0m  | | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  | |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  | |   [0m
+[0m[[0minfo[0m] [0m  | +-org.typelevel:cats-macros_2.12:1.0.0-RC1 (evicted by: 1.0.1)[0m
+[0m[[0minfo[0m] [0m  | +-org.typelevel:cats-macros_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m  | | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  | |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  | |   [0m
+[0m[[0minfo[0m] [0m  | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m  |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m  |   [0m
+[0m[[0minfo[0m] [0m  +-org.typelevel:cats-free_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m    +-org.typelevel:cats-core_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m    | +-org.typelevel:cats-kernel_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m    | +-org.typelevel:cats-macros_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m    | | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m    | |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m    | |   [0m
+[0m[[0minfo[0m] [0m    | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m    |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m    |   [0m
+[0m[[0minfo[0m] [0m    +-org.typelevel:cats-macros_2.12:1.0.1 [S][0m
+[0m[[0minfo[0m] [0m    | +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m    |   +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m    |   [0m
+[0m[[0minfo[0m] [0m    +-org.typelevel:machinist_2.12:0.6.2 [S][0m
+[0m[[0minfo[0m] [0m      +-org.scala-lang:scala-reflect:2.12.4 [S][0m
+[0m[[0minfo[0m] [0m      [0m

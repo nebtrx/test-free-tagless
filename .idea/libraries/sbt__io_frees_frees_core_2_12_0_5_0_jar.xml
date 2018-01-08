@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="sbt: io.frees:frees-core_2.12:0.5.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.frees/frees-core_2.12/jars/frees-core_2.12-0.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/io.frees/frees-core_2.12/srcs/frees-core_2.12-0.5.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
