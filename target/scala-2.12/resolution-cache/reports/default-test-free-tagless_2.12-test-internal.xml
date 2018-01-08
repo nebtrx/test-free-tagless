@@ -6,16 +6,16 @@
 		module="test-free-tagless_2.12"
 		revision="0.0.1-SNAPSHOT"
 		conf="test-internal"
-		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20180107210846"/>
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool"
+		date="20180107234313"/>
 	<dependencies>
 		<module organisation="io.frees" name="frees-core_2.12">
-			<revision name="0.5.0" status="release" pubdate="20171218091124" resolver="public" artresolver="public" homepage="https://frees-io.github.io/freestyle/" extra-info.apiURL="https://frees-io.github.io/freestyle/api/" downloaded="true" searched="true" default="false" conf="default, compile, runtime, default(compile), master" position="7">
+			<revision name="0.5.0" status="release" pubdate="20171218091124" resolver="sbt-chain" artresolver="sbt-chain" homepage="https://frees-io.github.io/freestyle/" extra-info.apiURL="https://frees-io.github.io/freestyle/api/" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="7">
 				<license name="Apache License" url="http://www.apache.org/licenses/LICENSE-2.0.txt"/>
-				<metadata-artifact status="successful" details="" size="3388" time="350" location="/Users/nebtrx/.ivy2/cache/io.frees/frees-core_2.12/ivy-0.5.0.xml" searched="true" original-local-location="/Users/nebtrx/.ivy2/cache/io.frees/frees-core_2.12/ivy-0.5.0.xml.original" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/frees/frees-core_2.12/0.5.0/frees-core_2.12-0.5.0.pom"/>
+				<metadata-artifact status="no" details="" size="4136" time="0" location="/Users/nebtrx/.ivy2/cache/io.frees/frees-core_2.12/ivy-0.5.0.xml" searched="false" origin-is-local="false" origin-location="https://repo1.maven.org/maven2/io/frees/frees-core_2.12/0.5.0/frees-core_2.12-0.5.0.pom"/>
 				<caller organisation="default" name="test-free-tagless_2.12" conf="test, compile, provided, test-internal, runtime, optional" rev="0.5.0" rev-constraint-default="0.5.0" rev-constraint-dynamic="0.5.0" callerrev="0.0.1-SNAPSHOT"/>
 				<artifacts>
-					<artifact name="frees-core_2.12" type="jar" ext="jar" status="successful" details="" size="212349" time="692" location="/Users/nebtrx/.ivy2/cache/io.frees/frees-core_2.12/jars/frees-core_2.12-0.5.0.jar">
+					<artifact name="frees-core_2.12" type="jar" ext="jar" status="no" details="" size="212349" time="0" location="/Users/nebtrx/.ivy2/cache/io.frees/frees-core_2.12/jars/frees-core_2.12-0.5.0.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/io/frees/frees-core_2.12/0.5.0/frees-core_2.12-0.5.0.jar"/>
 					</artifact>
 				</artifacts>
